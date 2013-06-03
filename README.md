@@ -5,7 +5,7 @@ About this program
 ------------------
 This sample code demonstrate the usage of the Hansoft C++ SDK. It is bundled with the Hansoft SDK that can be downloaded from the [Hansoft website](http://www.hansoft.com/support/downloads/). 
 To be able to compile this program you need the Hansoft SDK DLLs/dylibs that are included in that download. A Visual Studio solution is included for 
-building on Windows and an Xcode project for building on Mac OS X.
+building on Windows and an Xcode project for building on Mac OS X. 
 
 The program connects to a Hansoft server. To be able to do this you need a Hansoft license with the SDK module. If you need help with this, contact
 Hansoft support at <support@hansoft.com>. The program creates a scheduled task in every project and updates the task's date to the current date.
